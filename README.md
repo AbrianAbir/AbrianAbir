@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm **Abrian Abir** 👋  
-*Applications Engineer & Research Assistant | Mechanical Engineering & Computer Science*
+*Applications Engineer & Researcher | Mechanical Engineering & Computer Science*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-abir/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-abir)
