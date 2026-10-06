@@ -3,8 +3,8 @@
 # Hi there, I'm **Abrian Abir** 👋  
 *Applications Engineer & Researcher | Mechanical Engineering & Computer Science*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-abir/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-abir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrianabir/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abrianabir)
 [![Resume](https://img.shields.io/badge/Resume-📄-orange?style=for-the-badge)](Resume.md)
 
 </div>
